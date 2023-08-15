@@ -1,3 +1,3 @@
 # HTMLProfile
 Profile in Language HTML
- Este é o perfil que eu criei em html e css através da plataforma rocket seat
+This is the profile I created in HTML and CSS through the rocket seat platform
